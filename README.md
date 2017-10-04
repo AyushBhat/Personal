@@ -1,29 +1,14 @@
-### Introduction
----
-Welcome to my little corner. I’ve been cleaning up since I am getting close to graduation. Graduation cleaning and all. Please check out my wiki for more information.
-This is my itinerary:
+### Project Map
 
-<ol>
-<li value="0">Graduate</li>
-<li>Get into more competition</li>
-<li>Figure out what to keep and what to discard</li>
-</ol>
+| Location         | Description                                                                          |
+|:----------------:|:------------------------------------------------------------------------------------:|
+| [sifercontest](https://github.com/Surufel/Personal/tree/master/2.sifercontest)   | My competition code  |
+| [sifer--](https://github.com/Surufel/Personal/tree/master/0.sifer--)             | C++ snippets         |
+| [pysifer](https://github.com/Surufel/Personal/tree/master/1.pysifer)             | Python snippets      |
+| [secsif](https://github.com/Surufel/Personal/tree/master/5.secsif)               | Security stuff       |
+| [ferfer](https://github.com/Surufel/Personal/tree/master/3.ferfer)               | Web                  |
+| [othersifer](https://github.com/Surufel/Personal/tree/master/4.othersifer)       | Miscellaneous        |
 
-I think I will have lots of competition code up. As time goes on, I'm trying to consolidate everything.
+Current Project: [Scanner](https://github.com/Surufel/surufel-scanner) @ [Surufel](http://surufel.com/)
 
-Please be nice!
-
-### Table of Content
----
-| Branch Name      | Read As             | Description                                                   |
-|:----------------:|:-------------------:|---------------------------------------------------------------|
-| ferfer           | Web                 |  Web related stuff.                                           |
-| othersifer       | Miscellaneous       |  Everything else.                                             |
-| pysifer          | Python              |                                                               |
-| sifer--          | C++                 |                                                               |
-| sifercontest     | My competition code |  Start here.                                                  |
-| sifernoswifting  | Swift               |                                                               |
-
-### Contact
----
-Feel free to contact me at: sifer.aseph@nyu.edu
+[Back](http://www.siferaseph.com)
